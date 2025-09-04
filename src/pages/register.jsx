@@ -29,8 +29,7 @@ const Register = () => {
               </h2>
               <p className="text-white/80 leading-relaxed">
                 Connectez-vous pour découvrir des prévisions, recommandations et
-                suivis personnalisés. Optimisez vos courses et vos repas au
-                quotidien.
+                suivis personnalisés.
               </p>
             </div>
 
