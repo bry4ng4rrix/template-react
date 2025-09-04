@@ -124,7 +124,7 @@ const login = () => {
               </label>
               <span className="text-xs text-slate-600">
                 Besoin d’un compte ?{" "}
-                <a href="#" className="text-emerald-800 hover:underline">
+                <a href="/register" className="text-emerald-800 hover:underline">
                   Inscription
                 </a>
               </span>
