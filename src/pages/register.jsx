@@ -117,7 +117,7 @@ const Register = () => {
               </div>
               <span className="text-xs m-3 text-end text-slate-600">
                 Déjà un compte ?{" "}
-                <a href="/register" className="text-[#134d11] hover:underline">
+                <a href="/login" className="text-[#134d11] hover:underline">
                   Se Connecter
                 </a>
               </span>
